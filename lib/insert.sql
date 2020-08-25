@@ -1,7 +1,7 @@
-INSERT INTO bears VALUES (1, "Mr. Chocolate", 23, "male", "brown", "friendly", 1);
-INSERT INTO bears VALUES (2, "Rowdy", 3, "male", "spotted", "curious", 1);
-INSERT INTO bears VALUES (4, "Tabitha", 45, "female", "black", "grumpy" 0);
-INSERT INTO bears VALUES (5, "Sergeant Brown", 36, "male", "brown", "aggressive" 0);
+INSERT INTO bears VALUES (1,"Mr. Chocolate", 20, "M", "dark brown", "calm", 0);
+INSERT INTO bears VALUES (2,"Rowdy", 10, "M", "black", "intense", 1);
+INSERT INTO bears VALUES (3,"Tabitha", 6, "F", "dark brown", "Nice", 1);
+INSERT INTO bears VALUES (4,"Sargeant Brown", 19, "M", "Green", "Slimy", 0);
 INSERT INTO bears VALUES (6, "Melissa", 14, "female", "brown", "curious", 1);
 INSERT INTO bears VALUES (7, "Grinch", 66, "male", "pale brown", "very grumpy", 0);
 INSERT INTO bears VALUES (8, "Wendy", 23 "female", "pale brown", "unbothered" 1);
